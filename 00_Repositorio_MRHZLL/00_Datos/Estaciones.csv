@@ -1,0 +1,550 @@
+N_Oficial;N_DinaguaWS;N_UTEWSH;N_UTEWSP;Nombre_estacion;Institucion;latitude;longitude;Tipo_estacion;Parametros_medidos;Resolucion_temporal
+INUMET-1000;INUMET-1000;;;Colonia Manuel Victoria;INUMET;-33.725;-57.533;Automatica;P;5 min
+INUMET-2000;INUMET-2000;;;El Tala;INUMET;-33.218;-57.421;Automatica;P;5 min
+INUMET-3000;INUMET-3000;;;Montecoral;INUMET;-33.527;-55.727;Automatica;P;5 min
+INUMET-4000;INUMET-4000;;;Parque Policial Solymar;INUMET;-34.824;-55.959;Automatica;P;5 min
+INUMET-5000;INUMET-5000;;;San Ramón;INUMET;-34.303;-55.961;Automatica;P;5 min
+INUMET-6000;INUMET-6000;;;Santa Teresa;INUMET;-33.999;-53.554;Automatica;P;5 min
+INUMET-7000;INUMET-7000;;;Sauce;INUMET;-34.634;-55.959;Automatica;P;5 min
+INUMET-1;INUMET-1;;;18 de Julio;INUMET;-33.720;-53.550;Convencional;P;Diaria
+INUMET-10;INUMET-10;;;Andresito;INUMET;-33.170;-57.130;Convencional - Automatica;P;Diaria y 5 min
+INUMET-100;INUMET-100;;;El Águila;INUMET;-33.040;-57.275;Automatica;P;5 min
+INUMET-102;INUMET-102;;;El Cerro;INUMET;-33.980;-58.230;Convencional - Automatica;P;Diaria y 5 min
+INUMET-103;INUMET-103;;;El Molino;INUMET;-31.710;-56.000;Convencional;P;Diaria
+INUMET-104;INUMET-104;;;El Palmar;INUMET;-33.070;-57.460;Convencional;P;Diaria
+INUMET-106;INUMET-106;;;El Topador;INUMET;-30.300;-56.820;Convencional;P;Diaria
+INUMET-108;INUMET-108;;;Estación Ataques;INUMET;-31.090;-55.690;Convencional;P;Diaria
+INUMET-109;INUMET-109;;;Florencio Sanchez;INUMET;-33.880;-57.370;Convencional;P;Diaria
+INUMET-110;INUMET-110;;;Florida;INUMET;-34.090;-56.190;Convencional - Automatica;P;Diaria y 5 min
+INUMET-111;INUMET-111;;;Fraile Muerto;INUMET;-32.512;-54.524;Automatica;P;5 min
+INUMET-112;INUMET-112;;;Fray Bentos;INUMET;-33.130;-58.300;Convencional;P;Diaria
+INUMET-113;INUMET-113;;;Fray Marcos;INUMET;-34.200;-55.730;Convencional;P;Diaria
+INUMET-114;INUMET-114;;;Garzón;INUMET;-34.590;-54.550;Convencional - Automatica;P;Diaria y 5 min
+INUMET-115;INUMET-115;;;Goñi;INUMET;-33.520;-56.410;Convencional;P;Diaria
+INUMET-12;INUMET-12;;;Arbolito;INUMET;-32.610;-54.210;Convencional - Automatica;P;Diaria y 5 min
+INUMET-120;INUMET-120;;;Isla Patrulla;INUMET;-33.000;-54.560;Convencional - Automatica;P;Diaria y 5 min
+INUMET-122;INUMET-122;;;J. B. y Ordoñez;INUMET;-33.470;-55.140;Convencional;P;Diaria
+INUMET-123;INUMET-123;;;Javier de Viana;INUMET;-30.430;-56.780;Convencional;P;Diaria
+INUMET-125;INUMET-125;;;José P. Varela;INUMET;-33.460;-54.540;Convencional;P;Diaria
+INUMET-127;INUMET-127;;;Juan Lacaze;INUMET;-34.440;-57.440;Convencional;P;Diaria
+INUMET-128;INUMET-128;;;Juan Soler;INUMET;-34.320;-56.800;Convencional;P;Diaria
+INUMET-129;INUMET-129;;;La Aviación;INUMET;-33.480;-56.890;Convencional;P;Diaria
+INUMET-132;INUMET-132;;;La Cruz;INUMET;-33.929;-56.237;Automatica;P;5 min
+INUMET-1326;INUMET-1326;;;Tacuarembó G3;INUMET;-31.710;-55.990;Convencional - Automatica;P;Diaria y 5 min
+INUMET-133;INUMET-133;;;La Hilera;INUMET;-32.080;-55.660;Convencional - Automatica;P;Diaria y 5 min
+INUMET-1332;INUMET-1332;;;Rivera G3;INUMET;-30.970;-55.470;Convencional - Automatica;P;Diaria y 5 min
+INUMET-1333;INUMET-1333;;;Paysandú G3;INUMET;-32.350;-58.040;Convencional - Automatica;P;Diaria y 5 min
+INUMET-1334;INUMET-1334;;;Lavalleja G3;INUMET;-34.340;-55.080;Convencional - Automatica;P;Diaria y 5 min
+INUMET-1335;INUMET-1335;;;San Jacinto G3;INUMET;-34.510;-55.850;Convencional - Automatica;P;Diaria y 5 min
+INUMET-1336;INUMET-1336;;;Melo G3;INUMET;-32.370;-54.190;Convencional - Automatica;P;Diaria y 5 min
+INUMET-1337;INUMET-1337;;;Artigas G3;INUMET;-30.400;-56.510;Convencional - Automatica;P;Diaria y 5 min
+INUMET-1341;INUMET-1341;;;Atlántida G3;INUMET;-34.780;-55.750;Convencional - Automatica;P;Diaria y 5 min
+INUMET-1342;INUMET-1342;;;Treinta y Tres G3;INUMET;-33.200;-54.350;Convencional - Automatica;P;Diaria y 5 min
+INUMET-135;INUMET-135;;;La Pedrera;INUMET;-33.530;-56.880;Convencional;P;Diaria
+INUMET-137;INUMET-137;;;Laguna Merin;INUMET;-32.740;-53.260;Automatica;P;5 min
+INUMET-138;INUMET-138;;;Laguna del Sauce;INUMET;-34.860;-55.100;Convencional;P;Diaria
+INUMET-140;INUMET-140;;;Pueblo Grecco;INUMET;-32.820;-57.040;Convencional - Automatica;P;Diaria y 5 min
+INUMET-147;INUMET-147;;;Los Tapes (Feliciano);INUMET;-33.190;-56.810;Convencional;P;Diaria
+INUMET-153;INUMET-153;;;Maria Albina;INUMET;-33.390;-54.670;Convencional;P;Diaria
+INUMET-154;INUMET-154;;;Marincho;INUMET;-33.380;-57.160;Convencional - Automatica;P;Diaria y 5 min
+INUMET-155;INUMET-155;;;Mariscala;INUMET;-34.040;-54.780;Convencional - Automatica;P;Diaria y 5 min
+INUMET-156;INUMET-156;;;Marmaraja;INUMET;-34.260;-54.960;Convencional;P;Diaria
+INUMET-157;INUMET-157;;;Mataojo;INUMET;-34.637;-55.048;Automatica;P;5 min
+INUMET-159;INUMET-159;;;Aeropuerto Melilla;INUMET;-34.790;-56.260;Convencional;P;Diaria
+INUMET-16;INUMET-16;;;Artigas;INUMET;-30.400;-56.510;Convencional;P;Diaria
+INUMET-160;INUMET-160;;;Melo;INUMET;-32.350;-54.190;Convencional;P;Diaria
+INUMET-161;INUMET-161;;;Mendoza;INUMET;-34.280;-56.210;Convencional - Automatica;P;Diaria y 5 min
+INUMET-162;INUMET-162;;;Mercedes;INUMET;-33.250;-58.070;Convencional;P;Diaria
+INUMET-165;INUMET-165;;;Minas de Corrales;INUMET;-31.570;-55.470;Convencional;P;Diaria
+INUMET-167;INUMET-167;;;Moirones;INUMET;-31.600;-54.980;Convencional;P;Diaria
+INUMET-169;INUMET-169;;;Nico Perez;INUMET;-33.480;-55.150;Convencional;P;Diaria
+INUMET-170;INUMET-170;;;Nueva Helvecia;INUMET;-34.280;-57.230;Convencional;P;Diaria
+INUMET-171;INUMET-171;;;Nueva Palmira;INUMET;-33.870;-58.410;Convencional - Automatica;P;Diaria y 5 min
+INUMET-172;INUMET-172;;;Nuevo Berlín;INUMET;-32.980;-58.060;Convencional;P;Diaria
+INUMET-179;INUMET-179;;;Palmitas;INUMET;-33.510;-57.800;Convencional - Automatica;P;Diaria y 5 min
+INUMET-18;INUMET-18;;;Baigorria;INUMET;-32.880;-56.800;Convencional;P;Diaria
+INUMET-180;INUMET-180;;;Palomas;INUMET;-31.080;-57.610;Convencional;P;Diaria
+INUMET-186;INUMET-186;;;Paso Campamento;INUMET;-30.780;-56.780;Convencional;P;Diaria
+INUMET-187;INUMET-187;;;Paso de la Cruz_ar;INUMET;-30.290;-57.310;Convencional;P;Diaria
+INUMET-188;INUMET-188;;;Paso de la Cruz_rn;INUMET;-32.560;-57.390;Convencional;P;Diaria
+INUMET-194;INUMET-194;;;Paso Farias;INUMET;-30.480;-57.130;Convencional;P;Diaria
+INUMET-199;INUMET-199;;;Paso del Cerro;INUMET;-31.486;-55.833;Automatica;P;5 min
+INUMET-2;INUMET-2;;;19 de Abril;INUMET;-34.360;-54.070;Convencional;P;Diaria
+INUMET-201;INUMET-201;;;Paysandú;INUMET;-32.350;-58.040;Convencional;P;Diaria
+INUMET-202;INUMET-202;;;Peralta;INUMET;-32.494;-56.355;Automatica;P;5 min
+INUMET-206;INUMET-206;;;Pirarajá;INUMET;-33.740;-54.750;Convencional;P;Diaria
+INUMET-207;INUMET-207;;;Placido Rosas;INUMET;-32.750;-53.720;Convencional;P;Diaria
+INUMET-209;INUMET-209;;;Polanco del Yí;INUMET;-33.480;-56.160;Convencional;P;Diaria
+INUMET-21;INUMET-21;;;Bañado Medina;INUMET;-32.400;-54.350;Convencional;P;Diaria
+INUMET-211;INUMET-211;;;Prado;INUMET;-34.860;-56.210;Convencional - Automatica;P;Diaria y 5 min
+INUMET-212;INUMET-212;;;Pueblo Ansina;INUMET;-31.870;-55.460;Convencional;P;Diaria
+INUMET-213;INUMET-213;;;Pueblo Centenario;INUMET;-32.830;-56.500;Convencional - Automatica;P;Diaria y 5 min
+INUMET-214;INUMET-214;;;Isidoro Noblia;INUMET;-31.960;-54.120;Convencional;P;Diaria
+INUMET-215;INUMET-215;;;Pueblo José E. Rodó;INUMET;-33.700;-57.530;Convencional;P;Diaria
+INUMET-219;INUMET-219;;;Punta del Este;INUMET;-34.970;-54.950;Convencional - Automatica;P;Diaria y 5 min
+INUMET-221;INUMET-221;;;Puntas del Sauce;INUMET;-33.830;-57.017;Automatica;P;5 min
+INUMET-224;INUMET-224;;;Quintana;INUMET;-31.350;-56.390;Convencional;P;Diaria
+INUMET-227;INUMET-227;;;Reboledo;INUMET;-34.000;-55.650;Convencional;P;Diaria
+INUMET-228;INUMET-228;;;Riachuelo;INUMET;-34.430;-57.720;Convencional;P;Diaria
+INUMET-23;INUMET-23;;;Barriga Negra;INUMET;-33.960;-55.060;Convencional - Automatica;P;Diaria y 5 min
+INUMET-230;INUMET-230;;;Rincón;INUMET;-33.280;-54.840;Convencional;P;Diaria
+INUMET-231;INUMET-231;;;Rincón del Pino (R. Perazza);INUMET;-34.520;-56.800;Convencional - Automatica;P;Diaria y 5 min
+INUMET-232;INUMET-232;;;Rincón de Pereira;INUMET;-32.390;-55.290;Convencional;P;Diaria
+INUMET-235;INUMET-235;;;Rivera;INUMET;-30.900;-55.540;Convencional;P;Diaria
+INUMET-236;INUMET-236;;;Rocha;INUMET;-34.490;-54.310;Convencional;P;Diaria
+INUMET-238;INUMET-238;;;Rossell y Rius;INUMET;-33.180;-55.700;Convencional - Automatica;P;Diaria y 5 min
+INUMET-239;INUMET-239;;;Salto;INUMET;-31.440;-57.980;Convencional;P;Diaria
+INUMET-24;INUMET-24;;;Belen;INUMET;-30.790;-57.780;Convencional;P;Diaria
+INUMET-240;INUMET-240;;;San Antonio;INUMET;-34.450;-56.080;Convencional;P;Diaria
+INUMET-243;INUMET-243;;;San Gabriel;INUMET;-34.040;-55.880;Convencional - Automatica;P;Diaria y 5 min
+INUMET-244;INUMET-244;;;San Gregorio;INUMET;-32.610;-55.830;Convencional;P;Diaria
+INUMET-246;INUMET-246;;;San Javier;INUMET;-32.670;-58.140;Convencional;P;Diaria
+INUMET-247;INUMET-247;;;San Jorge;INUMET;-32.840;-55.900;Convencional - Automatica;P;Diaria y 5 min
+INUMET-248;INUMET-248;;;San Luis;INUMET;-33.610;-53.720;Convencional - Automatica;P;Diaria y 5 min
+INUMET-250;INUMET-250;;;Santa Catalina;INUMET;-33.790;-57.490;Convencional;P;Diaria
+INUMET-251;INUMET-251;;;Sanchez Grande;INUMET;-32.830;-57.730;Convencional;P;Diaria
+INUMET-252;INUMET-252;;;San José;INUMET;-34.350;-56.750;Convencional - Automatica;P;Diaria y 5 min
+INUMET-253;INUMET-253;;;Santa Rosa;INUMET;-34.500;-56.040;Convencional;P;Diaria
+INUMET-257;INUMET-257;;;Sarandí del Yí;INUMET;-33.330;-55.620;Convencional;P;Diaria
+INUMET-26;INUMET-26;;;Bernabe Rivera;INUMET;-30.300;-56.970;Convencional;P;Diaria
+INUMET-261;INUMET-261;;;Sta. Bernardina;INUMET;-33.360;-56.510;Convencional;P;Diaria
+INUMET-262;INUMET-262;;;Sta. Lucía (La Calera);INUMET;-34.220;-55.170;Convencional;P;Diaria
+INUMET-265;INUMET-265;;;Tala;INUMET;-34.340;-55.760;Convencional;P;Diaria
+INUMET-27;INUMET-27;;;Blanquillos;INUMET;-32.890;-55.620;Convencional;P;Diaria
+INUMET-272;INUMET-272;;;Treinta y Tres;INUMET;-33.220;-54.390;Convencional;P;Diaria
+INUMET-274;INUMET-274;;;Tres Boliches;INUMET;-32.270;-54.180;Convencional;P;Diaria
+INUMET-276;INUMET-276;;;Trinidad;INUMET;-33.540;-56.920;Convencional - Automatica;P;Diaria y 5 min
+INUMET-278;INUMET-278;;;V. Rosario;INUMET;-34.310;-55.470;Convencional;P;Diaria
+INUMET-279;INUMET-279;;;Pueblo Biassini;INUMET;-31.280;-57.130;Convencional;P;Diaria
+INUMET-280;INUMET-280;;;Valle Edén;INUMET;-31.824;-56.175;Automatica;P;5 min
+INUMET-281;INUMET-281;;;Velazquez;INUMET;-34.040;-54.280;Convencional - Automatica;P;Diaria y 5 min
+INUMET-284;INUMET-284;;;Vichadero;INUMET;-31.780;-54.690;Convencional;P;Diaria
+INUMET-285;INUMET-285;;;Villa 25 de Mayo;INUMET;-34.200;-56.340;Convencional - Automatica;P;Diaria y 5 min
+INUMET-286;INUMET-286;;;Villa Cardal;INUMET;-34.290;-56.400;Convencional;P;Diaria
+INUMET-29;INUMET-29;;;Cañada Grande (P. Mellizos);INUMET;-32.520;-57.160;Convencional;P;Diaria
+INUMET-291;INUMET-291;;;Villa Solis de Mataojo;INUMET;-34.600;-55.470;Convencional;P;Diaria
+INUMET-292;INUMET-292;;;Villa Soriano;INUMET;-33.390;-58.320;Convencional;P;Diaria
+INUMET-293;INUMET-293;;;Young;INUMET;-32.690;-57.650;Convencional;P;Diaria
+INUMET-295;INUMET-295;;;Zapicán;INUMET;-33.530;-54.940;Convencional - Automatica;P;Diaria y 5 min
+INUMET-3;INUMET-3;;;25 de Agosto;INUMET;-34.410;-56.400;Convencional;P;Diaria
+INUMET-32;INUMET-32;;;Cañas;INUMET;-32.360;-53.880;Convencional;P;Diaria
+INUMET-339;INUMET-339;;;Valizas;INUMET;-34.400;-53.869;Automatica;P;5 min
+INUMET-342;INUMET-342;;;La Paloma_Ro;INUMET;-34.660;-54.160;Convencional - Automatica;P;Diaria y 5 min
+INUMET-37;INUMET-37;;;Cardona;INUMET;-33.870;-57.370;Convencional - Automatica;P;Diaria y 5 min
+INUMET-39;INUMET-39;;;Aeropuerto Carrasco;INUMET;-34.830;-56.010;Convencional - Automatica;P;Diaria y 5 min
+INUMET-41;INUMET-41;;;Casupa_fr;INUMET;-34.100;-55.650;Convencional;P;Diaria
+INUMET-42;INUMET-42;;;Casupa_lv;INUMET;-34.140;-55.480;Convencional;P;Diaria
+INUMET-43;INUMET-43;;;Catalán Chico;INUMET;-30.880;-56.370;Convencional;P;Diaria
+INUMET-44;INUMET-44;;;Catalán Grande;INUMET;-30.780;-56.250;Convencional;P;Diaria
+INUMET-452;INUMET-452;;;Balneario Solís;INUMET;-34.790;-55.370;Convencional - Automatica;P;Diaria y 5 min
+INUMET-457;INUMET-457;;;Cuchilla Alta;INUMET;-34.790;-55.490;Convencional;P;Diaria
+INUMET-46;INUMET-46;;;Cebollatí;INUMET;-33.270;-53.800;Convencional - Automatica;P;Diaria y 5 min
+INUMET-460;INUMET-460;;;Santa Lucía;INUMET;-34.450;-56.380;Convencional - Automatica;P;Diaria y 5 min
+INUMET-461;INUMET-461;;;Toledo;INUMET;-34.740;-56.080;Convencional - Automatica;P;Diaria y 5 min
+INUMET-466;INUMET-466;;;Bocas del Cufré;INUMET;-34.442;-57.146;Automatica;P;5 min
+INUMET-467;INUMET-467;;;Kiyú;INUMET;-34.696;-56.749;Automatica;P;5 min
+INUMET-49;INUMET-49;;;Cerrillos;INUMET;-34.610;-56.360;Convencional;P;Diaria
+INUMET-5;INUMET-5;;;Achar;INUMET;-32.404;-56.181;Automatica;P;5 min
+INUMET-50;INUMET-50;;;Cerro Amarillo;INUMET;-30.620;-56.660;Convencional;P;Diaria
+INUMET-51;INUMET-51;;;Cerro Chato;INUMET;-33.100;-55.140;Convencional;P;Diaria
+INUMET-53;INUMET-53;;;Cerro de Las Cuentas;INUMET;-32.620;-54.590;Convencional;P;Diaria
+INUMET-55;INUMET-55;;;Chacra Policial;INUMET;-34.470;-56.250;Convencional - Automatica;P;Diaria y 5 min
+INUMET-56;INUMET-56;;;Chamanga;INUMET;-33.710;-56.680;Convencional - Automatica;P;Diaria y 5 min
+INUMET-57;INUMET-57;;;Chamizo_fr;INUMET;-34.240;-55.920;Convencional;P;Diaria
+INUMET-58;INUMET-58;;;Chamizo_sj;INUMET;-34.140;-56.690;Convencional - Automatica;P;Diaria y 5 min
+INUMET-590;INUMET-590;;;Rocha G3;INUMET;-34.490;-54.310;Convencional - Automatica;P;Diaria y 5 min
+INUMET-594;INUMET-594;;;Colonia G3;INUMET;-34.450;-57.770;Convencional - Automatica;P;Diaria y 5 min
+INUMET-6;INUMET-6;;;Agraciada;INUMET;-33.810;-58.270;Convencional;P;Diaria
+INUMET-600;INUMET-600;;;Salto G3;INUMET;-31.440;-57.980;Convencional - Automatica;P;Diaria y 5 min
+INUMET-603;INUMET-603;;;Paso de los Toros G3;INUMET;-32.800;-56.510;Convencional - Automatica;P;Diaria y 5 min
+INUMET-608;INUMET-608;;;Aeropuerto Melilla G3;INUMET;-34.790;-56.270;Convencional - Automatica;P;Diaria y 5 min
+INUMET-609;INUMET-609;;;Mercedes G3;INUMET;-33.250;-58.070;Convencional - Automatica;P;Diaria y 5 min
+INUMET-61;INUMET-61;;;Chileno;INUMET;-33.900;-58.100;Convencional;P;Diaria
+INUMET-610;INUMET-610;;;Durazno G3;INUMET;-33.350;-56.500;Convencional - Automatica;P;Diaria y 5 min
+INUMET-612;INUMET-612;;;San Bautista;INUMET;-34.440;-55.950;Convencional;P;Diaria
+INUMET-652;INUMET-652;;;Prado G3;INUMET;-34.860;-56.210;Convencional - Automatica;P;Diaria y 5 min
+INUMET-66;INUMET-66;;;Colonia;INUMET;-34.450;-57.770;Convencional - Automatica;P;Diaria y 5 min
+INUMET-69;INUMET-69;;;Colonia Itapebí;INUMET;-31.340;-57.400;Convencional;P;Diaria
+INUMET-7;INUMET-7;;;Aigua;INUMET;-34.200;-54.770;Convencional - Automatica;P;Diaria y 5 min
+INUMET-71;INUMET-71;;;Colonia Miguelete;INUMET;-34.010;-57.650;Convencional - Automatica;P;Diaria y 5 min
+INUMET-72;INUMET-72;;;Colonia Palma;INUMET;-30.580;-57.680;Convencional;P;Diaria
+INUMET-73;INUMET-73;;;Pintado Grande;INUMET;-30.460;-56.420;Convencional;P;Diaria
+INUMET-74;INUMET-74;;;Colonia Rivera;INUMET;-30.430;-56.540;Convencional;P;Diaria
+INUMET-75;INUMET-75;;;Colonia Valdense;INUMET;-34.330;-57.270;Convencional;P;Diaria
+INUMET-76;INUMET-76;;;Conchillas;INUMET;-34.160;-58.030;Convencional;P;Diaria
+INUMET-78;INUMET-78;;;Constitución;INUMET;-31.060;-57.850;Convencional;P;Diaria
+INUMET-79;INUMET-79;;;Coronilla;INUMET;-34.350;-54.790;Convencional;P;Diaria
+INUMET-8;INUMET-8;;;Algorta;INUMET;-32.420;-57.390;Convencional;P;Diaria
+INUMET-81;INUMET-81;;;Ismael Cortinas;INUMET;-33.960;-57.080;Convencional - Automatica;P;Diaria y 5 min
+INUMET-83;INUMET-83;;;Cuaró;INUMET;-30.610;-56.910;Convencional;P;Diaria
+INUMET-84;INUMET-84;;;Cuchilla Caraguata (N);INUMET;-32.130;-54.900;Convencional;P;Diaria
+INUMET-85;INUMET-85;;;Cuchilla Caraguatá Sur;INUMET;-32.245;-54.993;Automatica;P;5 min
+INUMET-86;INUMET-86;;;Sarandí de Navarro;INUMET;-32.543;-56.862;Automatica;P;5 min
+INUMET-87;INUMET-87;;;Cuchilla del Ombú;INUMET;-31.761;-55.698;Automatica;P;5 min
+INUMET-88;INUMET-88;;;Cuchilla del Carmen;INUMET;-32.720;-55.033;Automatica;P;5 min
+INUMET-90;INUMET-90;;;Cufré;INUMET;-34.200;-57.110;Convencional;P;Diaria
+INUMET-91;INUMET-91;;;Curtina;INUMET;-32.150;-56.120;Convencional - Automatica;P;Diaria y 5 min
+INUMET-92;INUMET-92;;;Diego Lamas;INUMET;-30.750;-57.050;Convencional;P;Diaria
+INUMET-93;INUMET-93;;;Cuchilla de Dionisio;INUMET;-32.872;-54.285;Automatica;P;5 min
+INUMET-94;INUMET-94;;;Dolores;INUMET;-33.530;-58.220;Convencional - Automatica;P;Diaria y 5 min
+INUMET-95;INUMET-95;;;Dr. Soca;INUMET;-34.680;-55.700;Convencional;P;Diaria
+INUMET-953;INUMET-953;;;Laguna del Sauce G3;INUMET;-34.860;-55.110;Convencional - Automatica;P;Diaria y 5 min
+INUMET-96;INUMET-96;;;Durazno;INUMET;-33.350;-56.500;Convencional;P;Diaria
+INUMET-97;INUMET-97;;;Ecilda Paullier;INUMET;-34.360;-57.090;Convencional;P;Diaria
+INUMET-98;INUMET-98;;;Egaña;INUMET;-33.600;-57.630;Convencional;P;Diaria
+19.0;0000000190;;;Carmelo (Atracadero);DINAGUA;-34.0092;-58.2903;Telemetrica;H;30 min
+13.0;0000000130;;;La Charqueada;DINAGUA;-33.2033;-53.7964;Telemetrica;H;30 min
+14.0;0000000140;;;Picada de Corbo;DINAGUA;-33.83;-54.7689;Telemetrica;HQ;30 min
+15.0;0000000150;;;Paso Averías;DINAGUA;-33.6133;-54.3294;Telemetrica;HQ;Horaria
+10.1;0000000101;;;Treinta y Tres (Ruta 8);DINAGUA;-33.2419;-54.4019;Telemetrica;HQ;30 min
+17.1;0000000171;;;Puente Mauá;DINAGUA;-32.5728;-53.3767;Telemetrica;H;Horaria
+36.0;0000000360;;;Punta San Luis;DINAGUA;-33.5217;-53.5428;Telemetrica;H;30 min
+44.0;0000000440;;;Fray Marcos;DINAGUA;-34.2161;-55.7411;Telemetrica;HQ;30 min
+45.0;0000000450;;;Laguna del Sauce (Vertedero);DINAGUA;-34.8622;-55.0694;Telemetrica;H;30 min
+46.1;0000000461;;;San Carlos (Puente Ruta 9);DINAGUA;-34.7694;-54.9008;Telemetrica;HQ;30 min
+53.1;0000000531;;;Florida (Puente Ruta 5);DINAGUA;-34.0911;-56.2033;Telemetrica;HQ;30 min
+59.1;0000000591;;;Paso Pache (Ruta 5 Nueva);DINAGUA;-34.3647;-56.2492;Telemetrica;HQ;30 min
+61.0;0000000610;;;Paso de la Compañia;DINAGUA;-31.5775;-55.4656;Telemetrica;HQ;30 min
+64.0;0000000640;;;Paso Mazangano;DINAGUA;-32.1097;-54.6672;Telemetrica;HQ;30 min
+71.0;0000000710;;;Pan de Azúcar (Puente Ruta 9);DINAGUA;-34.7811;-55.2336;Telemetrica;H;30 min
+82.0;0000000820;;;Paso Andrés Pérez;DINAGUA;-32.1781;-57.2369;Telemetrica;HQ;30 min
+67.1;0000000671;;;Laguna Garzón;DINAGUA;-34.7786;-54.5758;Telemetrica;H;30 min
+77.0;0000000770;;;Canelón Grande (Presa);DINAGUA;-34.4558;-56.2636;Telemetrica;H;30 min
+97.0;0000000970;;;Paso Dragón;DINAGUA;-32.7636;-53.7189;Telemetrica;HQ;30 min
+98.0;0000000980;;;Lago Merín;DINAGUA;-32.7394;-53.2558;Telemetrica;H;30 min
+117.0;0000001170;;;Paso Roldán;DINAGUA;-34.2675;-55.4542;Telemetrica;HQ;30 min
+118.0;0000001180;;;25 de Agosto;DINAGUA;-34.4156;-56.4153;Telemetrica;H;30 min
+140.0;0000001400;;;Dayman (Puente Ruta 3);DINAGUA;-31.4589;-57.9031;Telemetrica;HQ;30 min
+141.0;0000001410;;;Queguay (Puente Ruta 3);DINAGUA;-32.1356;-57.9386;Telemetrica;HQ;30 min
+191.0;0000001910;;;Barra del Chuy;DINAGUA;-33.7486;-53.3831;Telemetrica;H;30 min
+110.0;0000001100;;;San Luis;DINAGUA;-33.6017;-53.7242;Telemetrica;H;30 min
+115.0;0000001150;;;Picada de Varela;DINAGUA;-34.3189;-56.7097;Telemetrica;H;30 min
+133.0;0000001330;;;Santa Lucia (Ruta 11);DINAGUA;-34.4497;-56.4011;Telemetrica;HQ;30 min
+130.0;0000001300;;;Juan Lacaze;DINAGUA;-34.4417;-57.4442;Telemetrica;H;30 min
+185.0;0000001850;;;Laguna Castillos;DINAGUA;-34.2844;-53.9031;Telemetrica;H;30 min
+INIA1;;;;Salto Grande;INIA;-31.273;-57.891;Convencional;PE;Diaria y Horaria
+INIA2;;;;Tacuarembó - Glencoe;INIA;-32.006;-57.134;Convencional;PE;Diaria y Horaria
+INIA3;;;;Tacuarembó - La Magnolia;INIA;-31.709;-55.827;Convencional;PE;Diaria y Horaria
+INIA4;;;;Durazno;INIA;-33.314;-56.524;Automática;P;Horaria
+INIA5;;;;La Estanzuela;INIA;-34.337;-57.692;Convencional;PE;Diaria y Horaria
+INIA6;;;;Las Brujas;INIA;-34.672;-56.34;Convencional;PE;Diaria y Horaria
+INIA7;;;;Rocha;INIA;-34.59;-54.41;Automática;P;Horaria
+INIA8;;;;INIA TyT - Palo Pique;INIA;-33.263;-54.487;Convencional;PE;Diaria y Horaria
+A802;;;;Rio Grande;INMET;-32.07878;-52.167738;Automática;P;Horaria
+A803;;;;Santa Maria;INMET;-29.72499999;-53.72055554;Automática;P;Horaria
+A804;;;;Santana Do Livramento;INMET;-30.75055555;-55.40138888;Automática;P;Horaria
+A805;;;;Santo Augusto;INMET;-27.854345;-53.791179;Automática;P;Horaria
+A809;;;;Uruguaiana;INMET;-29.83987;-57.081899;Automática;P;Horaria
+A810;;;;Santa Rosa;INMET;-27.890463;-54.480014;Automática;P;Horaria
+A811;;;;Cangucu;INMET;-31.403299;-52.700699;Automática;P;Horaria
+A812;;;;Cacapava Do Sul;INMET;-30.545317;-53.46705;Automática;P;Horaria
+A815;;;;São Joaquim;INMET;-28.27564;-49.934617;Automática;P;Horaria
+A816;;;;Novo Horizonte;INMET;-26.40638888;-52.85027777;Automática;P;Horaria
+A826;;;;Alegrete;INMET;-29.709083;-55.525486;Automática;P;Horaria
+A827;;;;Bage;INMET;-31.347801;-54.013292;Automática;P;Horaria
+A828;;;;Erechim;INMET;-27.65771;-52.305805;Automática;P;Horaria
+A829;;;;São Jose Dos Ausentes;INMET;-28.748615;-50.057869;Automática;P;Horaria
+A830;;;;São Borja;INMET;-28.650092;-56.016291;Automática;P;Horaria
+A831;;;;Quarai;INMET;-30.368578;-56.437115;Automática;P;Horaria
+A832;;;;São Gabriel;INMET;-30.341438;-54.310909;Automática;P;Horaria
+A833;;;;Santiago;INMET;-29.191599;-54.885653;Automática;P;Horaria
+A836;;;;Jaguarao;INMET;-32.53472221;-53.37583332;Automática;P;Horaria
+A838;;;;Camaqua;INMET;-30.807953;-51.83424;Automática;P;Horaria
+A839;;;;Passo Fundo;INMET;-28.226805;-52.403582;Automática;P;Horaria
+A841;;;;Joacaba;INMET;-27.16916666;-51.55888888;Automática;P;Horaria
+A844;;;;Lagoa Vermelha;INMET;-28.222381;-51.512845;Automática;P;Horaria
+A845;;;;Bom Jardim Da Serra - Morro Da Igreja;INMET;-28.126992;-49.47961;Automática;P;Horaria
+A848;;;;Dionisio Cerqueira;INMET;-26.286562;-53.633114;Automática;P;Horaria
+A852;;;;Sao Luiz Gonzaga;INMET;-28.417113;-54.962403;Automática;P;Horaria
+A853;;;;Cruz Alta;INMET;-28.60344;-53.673597;Automática;P;Horaria
+A854;;;;Frederico Westphalen;INMET;-27.395686;-53.429421;Automática;P;Horaria
+A856;;;;Palmeira Das Missoes;INMET;-27.92027777;-53.31805554;Automática;P;Horaria
+A857;;;;São Miguel Do Oeste;INMET;-26.7861111;-53.51388888;Automática;P;Horaria
+A858;;;;Xanxere;INMET;-26.938666;-52.39809;Automática;P;Horaria
+A859;;;;Cacador;INMET;-26.819156;-50.98552;Automática;P;Horaria
+A860;;;;Curitibanos;INMET;-27.288624;-50.604283;Automática;P;Horaria
+A861;;;;Rio Do Campo;INMET;-26.93749999;-50.14555555;Automática;P;Horaria
+A863;;;;Ituporanga;INMET;-27.41841;-49.646874;Automática;P;Horaria
+A865;;;;Lages;INMET;-27.802228;-50.335457;Automática;P;Horaria
+A875;;;;General Carneiro;INMET;-26.3986111;-51.35361111;Automática;P;Horaria
+A876;;;;Clevelandia;INMET;-26.41722221;-52.3486111;Automática;P;Horaria
+A878;;;;Mostardas;INMET;-31.24833333;-50.90638888;Automática;P;Horaria
+A880;;;;Vacaria;INMET;-28.513602;-50.882738;Automática;P;Horaria
+A881;;;;Dom Pedrito;INMET;-31.0025;-54.61805554;Automática;P;Horaria
+A883;;;;Ibiruba;INMET;-28.653458;-53.111881;Automática;P;Horaria
+A886;;;;Tupancireta;INMET;-29.0893814;-53.82665025;Automática;P;Horaria
+A887;;;;Capao Do Leao (Pelotas);INMET;-31.8025;-52.40722222;Automática;P;Horaria
+A889;;;;São Vicente Do Sul;INMET;-29.70222222;-54.69444444;Automática;P;Horaria
+A893;;;;Encruzilhada Do Sul;INMET;-30.54305555;-52.52472221;Automática;P;Horaria
+A894;;;;Serafina Correa;INMET;-28.704806;-51.870751;Automática;P;Horaria
+A895;;;;Chapeco;INMET;-27.0853111;-52.6357111;Automática;P;Horaria
+A898;;;;Campos Novos;INMET;-27.3886111;-51.21583333;Automática;P;Horaria
+A899;;;;Santa Vitoria Do Palmar - Barra Do Chui;INMET;-33.742297;-53.372218;Automática;P;Horaria
+77500000;;;;QUARAI;ANA;-30.3844;-56.4656;Online;PHQ;15 min
+77150000;;;;URUGUAIANA;ANA;-29.7486;-57.0886;Online;PHQ;15 min
+76750000;;;;ALEGRETE;ANA;-29.7683;-55.7875;Online;PHQ;15 min
+75900000;;;;ITAQUI;ANA;-29.1175;-56.5544;Online;PHQ;15 min
+76800000;;;;PASSO MARIANO PINTO;ANA;-29.3092;-56.0553;Online;PHQ;15 min
+76560000;;;;MANOEL VIANA;ANA;-29.5958;-55.4814;Online;PHQ;15 min
+76310000;;;;ROSARIO DO SUL;ANA;-30.2428;-54.9169;Online;PHQ;15 min
+3154011;;;;ADUANA ACEGUÁ;ANA;-31.8661;-54.1672;Online;P;15 min
+2956013;;;;CERRO DO COQUEIRO;ANA;-29.7786;-56.5206;Online;P;15 min
+3155005;;;;POZZOBON ;ANA;-31.2397;-55.0944;Online;P;15 min
+3353020;;;;VITÓRIA PALMAR;ANA;-33.2381;-53.0619;Online;P;15 min
+3054029;;;;AZEVEDO SODRÉ;ANA;-30.0972;-54.6439;Online;P;15 min
+3154013;;;;BENTO RENGO;ANA;-31.27;-54.5311;Online;P;15 min
+3055018;;;;CABECEIRA SAICÃ;ANA;-30.2269;-55.1553;Online;P;15 min
+3055019;;;;CERRO DO COMBATE;ANA;-30.5469;-55.3197;Online;P;15 min
+88370150;;;;CORSAN ARROIO GRANDE;ANA;-32.2394;-53.0897;Online;P;15 min
+3253030;;;;CORSAN HERVAL;ANA;-32.0289;-53.3978;Online;P;15 min
+2954040;;;;COXILHA DO PAU FINADO;ANA;-29.9511;-54.3317;Online;P;15 min
+76240000;;;;DOM PEDRITO/CORSAN;ANA;-30.9947;-54.6856;Online;PH;15 min
+88690050;;;;ECLUSA SÃO GONÇALO;ANA;-31.8111;-52.3892;Online;PH;15 min
+3056029;;;;ESTÂNCIA CATY;ANA;-30.4247;-56.0206;Online;P;15 min
+79400400;;;;ESTÂNCIA DA LAGOA;ANA;-31.6122;-54.3908;Online;PH;15 min
+3055021;;;;ESTÂNCIA SANTA HILMA;ANA;-30.9453;-55.6664;Online;P;15 min
+3055017;;;;ESTÂNCIA SARANDI;ANA;-30.665;-55.9531;Online;P;15 min
+2955024;;;;FAZENDA CORDILHEIRA;ANA;-29.4264;-55.1583;Online;P;15 min
+3054030;;;;FAZENDA SÃO GABRIEL;ANA;-30.4811;-54.5533;Online;P;15 min
+79200010;;;;FAZENDA SÃO JORGE / BAGÉ;ANA;-31.4533;-54.13;Online;PH;15 min
+76660900;;;;FUNDAÇÃO MARONNA ALEGRETE;ANA;-30.0681;-55.6594;Online;P;15 min
+88150900;;;;GASTAUD MANGUEIRA;ANA;-32.8336;-52.6436;Online;P;15 min
+88009000;;;;GERIBATU;ANA;-33.5022;-53.1478;Online;PH;15 min
+76500040;;;;JACAQUÁ;ANA;-29.6869;-55.1964;Online;PH;15 min
+3054028;;;;MARCO DAS ÁGUAS;ANA;-30.7478;-54.1375;Online;P;15 min
+76220900;;;;PASSO DA FERRARIA;ANA;-31.1417;-54.3806;Online;PH;15 min
+88260000;;;;PASSO DAS PEDRAS;ANA;-32.5194;-53.4558;Online;PHQ;15 min
+87920500;;;;PASSO DO CANDOMBE;ANA;-31.29;-52.1175;Online;PH;15 min
+76741900;;;;PASSO DO OSÓRIO ALEGRETE;ANA;-29.9514;-55.5992;Online;PH;15 min
+85480010;;;;PASSO DO ROCHA;ANA;-30.2319;-53.9856;Online;P;15 min
+76290000;;;;PASSO DOS FARRAPOS;ANA;-30.5183;-55.0431;Online;PH;15 min
+3154015;;;;PASSO SÃO LUIS BAGÉ;ANA;-31.5119;-54.5114;Online;P;15 min
+87237000;;;;PONTE ARROIO TURUÇU;ANA;-31.3678;-52.2928;Online;PH;15 min
+87550050;;;;PONTE CAMAQUÃ CHICO;ANA;-30.9083;-53.8206;Online;P;15 min
+88550010;;;;PONTE DO IMPÉRIO PIRATINI;ANA;-31.7192;-52.9008;Online;PH;15 min
+76300000;;;;PONTE IBICUI DA ARMADA;ANA;-30.2808;-54.9031;Online;P;15 min
+76150050;;;;PONTE IBIROCAÍ;ANA;-29.4683;-56.4756;Online;PH;15 min
+76431995;;;;PONTE RIO JAGUARI;ANA;-29.4997;-54.6889;Online;PH;15 min
+76380050;;;;RIO CACEQUI;ANA;-29.895;-54.8531;Online;PH;15 min
+88060200;;;;TAIM MANGUEIRA;ANA;-32.5408;-52.5394;Online;PH;15 min
+88060210;;;;TAIM MIRIM;ANA;-32.5397;-52.5392;Online;PH;15 min
+3054031;;;;TIARAJU SÃO GABRIEL;ANA;-30.2447;-54.3697;Online;P;15 min
+3154016;;;;TORQUATO SEVERO;ANA;-31.0222;-54.1847;Online;P;15 min
+3153035;;;;USINA TERMOELÉTRICA PIRATINI;ANA;-31.2419;-53.1808;Online;P;15 min
+3154017;;;;VILA SERRILHADA;ANA;-31.4378;-54.7122;Online;P;15 min
+A50BE1C2;A50BE1C2;;;Solari;CTM Salto Grande;-29.37;-58.18;Automática;P;15 min
+A50BF2B4;A50BF2B4;;;Baibene;CTM Salto Grande;-29.6;-58.15;Automática;P;15 min
+A50BC72E;A50BC72E;;;Miriñay medio;CTM Salto Grande;-29.39;-57.65;Automática;P;15 min
+A50CD66C;A50CD66C;;;Bonpland;CTM Salto Grande;-29.82;-57.44;Automática;P;15 min
+A50C0004;A50C0004;;;Curuzú cuatiá;CTM Salto Grande;-29.78;-58.03;Automática;P;15 min
+A50C26E8;A50C26E8;;;Los Conquistadores;CTM Salto Grande;-30.58;-58.45;Automática;P;15 min
+A50CC51A;A50CC51A;;;Mocoreta rio;CTM Salto Grande;-30.63;-57.98;Automática;PH;15 min
+A50C5078;A50C5078;;;Mocoreta medio;CTM Salto Grande;-30.21;-57.97;Automática;P;15 min
+A50C359E;A50C359E;;;Chajarí;CTM Salto Grande;-30.78;-58.15;Automática;P;15 min
+A50012EE;A50012EE;;;Concordia;CTM Salto Grande;-31.38;-58.02;Automática;PHQ;15 min
+A5003402;A5003402;;;Paso de la cruz;CTM Salto Grande;-30.3;-57.32;Automática;PHQ;15 min
+A500D7F0;A500D7F0;;;Paso del remanso;CTM Salto Grande;-30.12;-56.73;Automática;P;15 min
+A500B216;A500B216;;;Bernabé rivera;CTM Salto Grande;-30.3;-56.95;Automática;P;15 min
+A50C65E2;A50C65E2;;;Artigas;CTM Salto Grande;-30.3928;-56.4567;Automática;PHQ;15 min
+A50079DA;A50079DA;;;Cuareim Río;CTM Salto Grande DINAGUA;-30.586;-56.23;Automática;PH;15 min
+A5006AAC;A5006AAC;;;Catalán Grande;CTM Salto Grande DINAGUA;-30.637;-56.327;Automática;PH;15 min
+A50B74A0;A50B74A0;;;Tomás gomensoro;CTM Salto Grande;-30.44;-57.45;Automática;P;15 min
+A50B413A;A50B413A;;;Paso Farías;CTM Salto Grande;-30.49;-57.14;Automática;P;15 min
+A50B37AA;A50B37AA;;;Javier de  viana;CTM Salto Grande;-30.44;-56.79;Automática;P;15 min
+A50B8424;A50B8424;;;Colonia palma;CTM Salto Grande;-30.59;-57.69;Automática;P;15 min
+A500A160;A500A160;;;Cuaró;CTM Salto Grande;-30.62;-56.91;Automática;P;15 min
+A500647E;A500647E;;;Cerro amarillo;CTM Salto Grande;-30.62;-56.63;Automática;P;15 min
+A5007708;A5007708;;;Paso campamento;CTM Salto Grande;-30.8;-56.77;Automática;P;15 min
+A50B524C;A50B524C;;;Baltasar brum;CTM Salto Grande;-30.73;-57.32;Automática;P;15 min
+A50B67D6;A50B67D6;;;Diego lamas;CTM Salto Grande;-30.77;-57.03;Automática;P;15 min
+A50B9752;A50B9752;;;Belén;CTM Salto Grande;-30.79;-57.79;Automática;P;15 min
+A500C486;A500C486;;;Meneses;CTM Salto Grande;-30.87;-56.38;Automática;P;15 min
+A50051E4;A50051E4;;;Catalán;CTM Salto Grande;-30.78;-56.25;Automática;P;15 min
+A501D50A;A501D50A;;;Sarandí de arapey;CTM Salto Grande;-30.98;-56.2;Automática;P;15 min
+A501531E;A501531E;;;Sequeira;CTM Salto Grande;-31.03;-56.87;Automática;P;15 min
+A501C67C;A501C67C;;;Guaviyú de arapey;CTM Salto Grande;-31.02;-56.57;Automática;P;15 min
+A5014068;A5014068;;;Colonia lavalleja;CTM Salto Grande;-31.1;-57.03;Automática;P;15 min
+A50B24DC;A50B24DC;;;Arapey Chico;CTM Salto Grande;-30.96;-57.46;Automática;PHQ;15 min
+A50CB38A;A50CB38A;;;Arapey Grande R4;CTM Salto Grande;-31.231;-57.097;Automática;PHQ;15 min
+A50B0230;A50B0230;;;Arapey Grande;CTM Salto Grande;-30.98;-57.52;Automática;PHQ;15 min
+A50B1146;A50B1146;;;Espinillar;CTM Salto Grande;-30.971187;-57.880716;Automática;PH;15 min
+A5002774;A5002774;;;Salto grande;CTM Salto Grande;-31.27;-57.92;Automática;PH;15 min
+A50BB1BE;A50BB1BE;;;Itapebí;CTM Salto Grande;-31.25;-57.68;Automática;P;15 min
+A50BA2C8;A50BA2C8;;;Cuchilla de salto;CTM Salto Grande;-31.43;-57.43;Automática;P;15 min
+A501A39A;A501A39A;;;Paso potrero;CTM Salto Grande;-31.47;-56.83;Automática;P;15 min
+A501B0EC;A501B0EC;;;Cerro chato;CTM Salto Grande;-31.27;-56.63;Automática;P;15 min
+A5016684;A5016684;;;Arerunguá;CTM Salto Grande;-31.67;-56.63;Automática;P;15 min
+A5019600;A5019600;;;Puntas de valentín;CTM Salto Grande;-31.18;-57.23;Automática;P;15 min
+A50175F2;A50175F2;;;Quintana;CTM Salto Grande;-31.4;-56.37;Automática;P;15 min
+A50C7694;A50C7694;;;Miriñay San Roquito;CTM Salto Grande;-29.297;-57.565;Automática;PH;15 min
+A50BD458;A50BD458;;;Miriñay Po. Ledesma;CTM Salto Grande;-29.85;-57.68;Automática;PHQ;15 min
+A5000F4A;A5000F4A;;;Colonia libertad;CTM Salto Grande;-30.03;-57.82;Automática;P;15 min
+A50C1372;A50C1372;;;Cazadores correntinos;CTM Salto Grande;-29.98;-58.28;Automática;P;15 min
+A50C8610;A50C8610;;;Mocoreta lago;CTM Salto Grande;-30.68;-57.82;Automática;PH;15 min
+A50C9566;A50C9566;;;Monte Caseros;CTM Salto Grande;-30.23;-57.62;Automática;PH;15 min
+A50C430E;A50C430E;;;S. Jaime de Arruabarrena;CTM Salto Grande;-30.34;-58.32;Automática;P;15 min
+A50CA0FC;A50CA0FC;;;Pujol;CTM Salto Grande;-30.42;-57.85;Automática;P;15 min
+A501258E;A501258E;;;Salto;CTM Salto Grande;-31.39;-57.98;Automática;PH;15 min
+A50094FA;A50094FA;;;Paso del Leon;CTM Salto Grande;-30.12;-57.08;Automática;P;15 min
+A5018576;A5018576;;;Alto Arapey;CTM Salto Grande;-31.67;-56.77;Automática;P;15 min
+A500878C;A500878C;;;Alto Cuareim;CTM Salto Grande;-31.05;-55.85;Automática;PH;15 min
+A5004292;A5004292;;;Paso de los libres;CTM Salto Grande;-29.73;-57.08;Automática;PH;15 min
+A500F11C;A500F11C;;;Santo Tomé;CTM Salto Grande;-28.53;-56.03;Automática;PH;15 min
+A500E26A;A500E26A;;;Garruchos;CTM Salto Grande;-28.17;-55.63;Automática;PHQ;15 min
+A5010362;A5010362;;;San Javier;CTM Salto Grande;-27.88;-55.12;Automática;PHQ;15 min
+A5011014;A5011014;;;El Soberbio;CTM Salto Grande;-27.3;-54.18;Automática;PHQ;15 min
+A50136F8;A50136F8;;;Pepiri Mini;CTM Salto Grande;-27.153304;-53.933283;Automática;PH;15 min
+A5004C40;A5004C40;;;Federación OTT;CTM Salto Grande;-30.996;-57.913;Automática;PH;15 min
+A5005F36;A5005F36;;;El Trompo;CTM Salto Grande;-30.971;-58.247;Automática;P;15 min
+A5003AD0;A5003AD0;;;Aguapei;CTM Salto Grande;-28.417;-56.542;Automática;PH;15 min
+A5001C3C;A5001C3C;;;Yapeyú;CTM Salto Grande;-29.47;-56.812;Automática;PH;15 min
+A50029A6;A50029A6;;;Alvear;CTM Salto Grande;-29.113;-56.556;Automática;PHQ;15 min
+A500CA54;A500CA54;;;Dayman Ruta 3;CTM Salto Grande;-31.459;-57.903;Automática;PH;15 min
+A500D922;A500D922;;;Queguay Ruta 3;CTM Salto Grande;-32.135;-57.939;Automática;PH;15 min
+A5009A28;A5009A28;;;Santa Ana;CTM Salto Grande;-30.905451;-57.935894;Automática;PH;15 min
+A500BCC4;A500BCC4;;;Loma Alta;CTM Salto Grande;-29.05663;-57.08769;Automática;P;15 min
+A500AFB2;A500AFB2;;;Uguay;CTM Salto Grande;-28.691829;-57.480465;Automática;P;15 min
+1338;UTE-0001;Manuel Díaz;Manuel Díaz;PASO MANUEL DIAZ (RHT);UTE;-31.52808;-55.68467;Convencional - Automatica;PHQ;Diaria y Horaria
+1339;UTE-0002;Cuñapirú;Cuñapirú;CUÑAPIRU (RHT);UTE;-31.53022;-55.58250;Convencional - Automatica;PHQ;Diaria y Horaria
+1484;UTE-0003;Borracho;Ansina;ANSINA (Paso BORRACHO) (RHT);UTE;-31.87642;-55.46778;Convencional - Automatica;PHQ;Diaria y Horaria
+1697;UTE-0008;Laguna II;Laguna II;PASO LAGUNA II (RHT);UTE;-32.34411;-55.46458;Convencional - Automatica;PHQ;Diaria y Horaria
+1741;UTE-0012;Paso Las Piedras;Paso Las Piedras;PASO LAS PIEDRAS (RHT);UTE;-32.45103;-55.44664;Convencional - Automatica;PHQ;Diaria y Horaria
+1915;UTE-0015;Paso de los Toros;E.M. Paso de los Toros; PASO DE LOS TOROS (RHT);UTE;-32.79878;-56.52919;Convencional - Automatica;PH;Diaria y Horaria
+2215;UTE-0017;Sarandí del Yi;Sarandí del Yí;SARANDI DEL YI (RHT);UTE;-33.33961;-55.61436;Convencional - Automatica;PHQ;Diaria y Horaria
+2257;UTE-0018;Polanco del Yi;Polanco del Yí;POLANCO DEL YI (RHT);UTE;-33.47342;-56.16194;Convencional - Automatica;PHQ;Diaria y Horaria
+2206;UTE-0019;Durazno;E.M. Durazno;PUENTE NUEVO DURAZNO (RHT);UTE;-33.37328;-56.51194;Convencional - Automatica;PHQ;Diaria y Horaria
+0000;UTE-0020;Durazno Puente Viejo;;PUENTE VIEJO DURAZNO (CORRELACIÓN);UTE;-33.359025;-56.526110;Convencional;H;Horaria
+2157;UTE-0021;Barra de Porongos;Barra de Porongos;BARRA DE PORONGOS (RHT);UTE;-33.26233;-56.85494;Convencional - Automatica;PHQ;Diaria y Horaria
+2145;UTE-0022;Mercedes;E.M. Mercedes;PUENTE MERCEDES (RHT);UTE;-33.24247;-58.01814;Convencional - Automatica;PHQ;Diaria y Horaria
+2237;UTE-0023;Villa Soriano;Villa Soriano;VILLA SORIANO (RHT);UTE;-33.39078;-58.31792;Convencional - Automatica;PH;Diaria y Horaria
+1960;UTE-0024;;UTE Baygorria;PRESA BAYGORRIA (RHT);UTE;-32.87444;-56.80664;Convencional - Automatica;P;Diaria y Horaria
+1963;UTE-0025;;E.M. Bonete;PRESA RINCON DEL BONETE (RHT);UTE;-32.83194;-56.42417;Convencional - Automatica;P;Diaria y Horaria
+1526;UTE-0027;Coelho;Picada de Coelho;PASO COELHO (RHT);UTE;-32.03950;-55.36103;Convencional - Automatica;PHQ;Diaria y Horaria
+1613;UTE-0028;Las Toscas;Paso de las Toscas;PASO LAS TOSCAS (RHT);UTE;-32.15692;-55.02661;Convencional - Automatica;PHQ;Diaria y Horaria
+1617;UTE-0029;Mazangano;Paso Mazangano;PASO MAZANGANO (RHT);UTE;-32.10522;-54.67258;Convencional - Automatica;PHQ;Diaria y Horaria
+1653;UTE-0030;Laguna I;Paso Laguna;PASO LAGUNA I (RHT);UTE;-32.25044;-55.42242;Convencional - Automatica;PHQ;Diaria y Horaria
+1658;UTE-0031;Aguiar;Paso Aguiar;PASO AGUIAR (RHT);UTE;-32.28514;-54.84131;Convencional - Automatica;PHQ;Diaria y Horaria
+1743;UTE-0032;Pereira;Paso Pereira;PASO PEREIRA (RHT);UTE;-32.44356;-55.22658;Convencional - Automatica;PHQ;Diaria y Horaria
+1819;UTE-0033;Salsipuedes Ruta 20;Salsipuedes;SALSIPUEDES (RHT);UTE;-32.64786;-56.59250;Convencional - Automatica;PHQ;Diaria y Horaria
+1826;UTE-0034;San Gregorio de Polanco;San Gregorio;SAN GREGORIO (RHT);UTE;-32.62069;-55.82950;Convencional - Automatica;PH;Diaria y Horaria
+1558;UTE-0035;;Piedra Sola;PIEDRA SOLA (RHT);UTE;-32.08222;-56.30850;Convencional - Automatica;P;Diaria y Horaria
+2153;UTE-0037;Lugo;Paso de Lugo;PASO LUGO (RHT);UTE;-33.24814;-57.26161;Convencional - Automatica;PHQ;Diaria y Horaria
+2052;UTE-0038;;E.M. Palmar;PRESA CONSTITUCION (RHT);UTE;-33.06708;-57.46081;Convencional - Automatica;P;Diaria y Horaria
+2016;UTE-0039;;;San Jorge (Carpintería);UTE;-32.8425;-55.8967;Convencional;P;Diaria
+1686;UTE-0041;;;Tiatucurá;UTE;-32.3130;-56.4946;Convencional;P;Diaria
+1688;UTE-0042;;;Estancia Quadros;UTE;-32.3728;-56.3916;Convencional;P;Diaria
+1730;UTE-0043;;;Estancia Itacuru (La Fe);UTE;-32.5393;-56.6442;Convencional;P;Diaria
+1732;UTE-0044;;;Peralta;UTE;-32.4944;-56.3551;Convencional;P;Diaria
+1817;UTE-0046;;;Estancia Rolón - Piquet;UTE;-32.6752;-56.8979;Convencional;P;Diaria
+1818;UTE-0047;;;Las Cañadas;UTE;-32.5694;-56.6306;Convencional;P;Diaria
+1867;UTE-0048;;;Estancia Olaso;UTE;-32.7174;-56.4565;Convencional;P;Diaria
+1961;UTE-0051;;;Estancia Real;UTE;-32.9466;-56.6280;Convencional;P;Diaria
+2061;UTE-0052;;;Carlos Reyles;UTE;-33.0611;-56.4701;Convencional;P;Diaria
+2053;UTE-0054;;;El Aguila;UTE;-33.0398;-57.2744;Convencional;P;Diaria
+2154;UTE-0056;;;Marincho;UTE;-33.3844;-57.1636;Convencional;P;Diaria
+22222;UTE-0057;;;Los Tapes - Feliciano;UTE;-33.1858;-56.8086;Convencional;P;Diaria
+1909;UTE-0058;;;Grecco;UTE;-32.8178;-57.0433;Convencional;P;Diaria
+2167;UTE-0059;;;Rossell y Rius;UTE;-33.1845;-55.6968;Convencional;P;Diaria
+2354;UTE-0062;;;Gallinal;UTE;-33.6604;-55.7940;Convencional;P;Diaria
+2357;UTE-0063;;;Mansavillagra;UTE;-33.6178;-55.4708;Convencional;P;Diaria
+2498;UTE-0064;;;Cerro Colorado;UTE;-33.8626;-55.5492;Convencional;P;Diaria
+2164;UTE-0065;;;Villa Carmen;UTE;-33.2418;-56.0122;Convencional;P;Diaria
+2351;UTE-0066;;;Pantanoso;UTE;-33.5274;-55.9558;Convencional;P;Diaria
+2395;UTE-0067;;;Sarandí Grande;UTE;-33.7223;-56.3274;Convencional;P;Diaria
+2392;UTE-0068;;;Chamangá;UTE;-33.7143;-56.6685;Convencional;P;Diaria
+2204;UTE-0069;;;Camino a la Aviacion;UTE;-33.4934;-56.8975;Convencional;P;Diaria
+2301;UTE-0071;;;Goni;UTE;-33.5192;-56.4135;Convencional;P;Diaria
+2486;UTE-0072;;;Pintos;UTE;-33.8790;-56.7572;Convencional;P;Diaria
+2198;UTE-0073;;;La Laguna;UTE;-33.2033;-57.5756;Convencional;P;Diaria
+2340;UTE-0074;;;Cuchilla del Perdido;UTE;-33.7098;-57.2649;Convencional;P;Diaria
+2383;UTE-0075;;;Corralito;UTE;-33.8288;-57.7881;Convencional;P;Diaria
+2387;UTE-0076;;;Santa Adelaida;UTE;-33.7680;-57.1501;Convencional;P;Diaria
+2430;UTE-0077;;;Santa Catalina;UTE;-33.7915;-57.4918;Convencional;P;Diaria
+2480;UTE-0078;;;Cardona;UTE;-33.8724;-57.3700;Convencional;P;Diaria
+1683;UTE-0079;;;Merinos;UTE;-32.3965;-56.9144;Convencional;P;Diaria
+1766;UTE-0080;;;Paso de la Cruz;UTE;-32.5238;-57.1603;Convencional;P;Diaria
+1768;UTE-0081;;;Paso de los Mellizos;UTE;-33.3317;-57.7117;Convencional;P;Diaria
+1771;UTE-0082;;;Sarandí de Navarro;UTE;-32.5424;-56.8617;Convencional;P;Diaria
+1856;UTE-0083;;;E.M. Young;UTE;-32.6863;-57.6494;Convencional;P;Diaria
+1951;UTE-0084;;;Sánchez Grande;UTE;-32.8336;-57.7325;Convencional;P;Diaria
+2098;UTE-0085;;;Villa Darwin;UTE;-33.1218;-57.6394;Convencional;P;Diaria
+2099;UTE-0086;;;Rincón de Cololó;UTE;-33.0631;-57.9002;Convencional;P;Diaria
+2147;UTE-0087;;;Ejido;UTE;-33.2786;-57.9742;Convencional;P;Diaria
+2148;UTE-0088;;;Arroyo Corto;UTE;-33.2399;-57.7841;Convencional;P;Diaria
+2337;UTE-0089;;;Egaña;UTE;-33.6026;-57.6316;Convencional;P;Diaria
+2095;UTE-0090;;;Cañitas;UTE;-33.1610;-58.2370;Convencional;P;Diaria
+1523;UTE-0093;;Paso de los Novillos;Paso de los Novillos;UTE;-31.9728;-55.6714;Convencional - Automatica;P;Diaria y Horaria
+1864;UTE-0095;;;Monumento;UTE;-32.7509;-56.7846;Convencional;P;Diaria
+1884;UTE-0096;;;Quebracho;UTE;-32.6026;-54.7214;Convencional;P;Diaria
+2349;UTE-0098;;;Puntas de Maciel;UTE;-33.6227;-56.3623;Convencional;P;Diaria
+2384;UTE-0099;;;Rodó;UTE;-33.6968;-57.5318;Convencional;P;Diaria
+1224;UTE-0101;;;Paso Ataques;UTE;-31.2011;-55.3622;Convencional;P;Diaria
+2436;UTE-0104;;;Puntas del Sauce;UTE;-33.8296;-57.0162;Convencional;P;Diaria
+1600;UTE-0105;;;Arbolito (Salsipuedes);UTE;-32.2049;-56.4248;Convencional;P;Diaria
+1565;UTE-0106;;;La Hilera;UTE;-32.0780;-55.6598;Convencional;P;Diaria
+1539;UTE-0107;;;San Diego;UTE;-31.9941;-53.9547;Convencional;P;Diaria
+1751;UTE-0108;;;Bañado de Medina;UTE;-32.4022;-54.3496;Convencional;P;Diaria
+2266;UTE-0109;;;Nico Perez;UTE;-33.4806;-55.1531;Convencional;P;Diaria
+2297;UTE-0110;;;E.M. Trinidad;UTE;-33.5365;-56.9157;Convencional;P;Diaria
+2289;UTE-0111;;;Palmitas;UTE;-33.5076;-57.7983;Convencional;P;Diaria
+1521;UTE-0112;;;San Joaquín;UTE;-31.9594;-55.8109;Convencional;P;Diaria
+2152;UTE-0113;;;El Tala;UTE;-33.2292;-57.3989;Convencional;P;Diaria
+2107;UTE-0115;;;Paso del Bote;UTE;-33.1706;-56.8444;Convencional;P;Diaria
+1784;UTE-0118;;;Paso Ramírez;UTE;-32.5372;-55.5029;Convencional;P;Diaria
+1379;UTE-0119;;;Moirones;UTE;-31.6026;-54.9761;Convencional;P;Diaria
+1792;UTE-0120;;;Tres Islas;UTE;-32.5149;-54.6884;Convencional;P;Diaria
+1662;UTE-0121;;;Palleros;UTE;-32.0781;-54.4849;Convencional;P;Diaria
+1496;UTE-0122;;;Aceguá;UTE;-31.8741;-54.1610;Convencional;P;Diaria
+1348;UTE-0123;;;Cerrillada;UTE;-31.4360;-54.7220;Convencional;P;Diaria
+1417;UTE-0124;;;Hospital;UTE;-31.6566;-54.6224;Convencional;P;Diaria
+1774;UTE-0125;;;Estancia Francia;UTE;-32.5435;-56.6248;Convencional;P;Diaria
+1194;UTE-0126;;;Est. Ataques;UTE;-31.0954;-55.6870;Convencional;P;Diaria
+1220;UTE-0127;;;Tranqueras;UTE;-31.1908;-55.7649;Convencional;P;Diaria
+1147;UTE-0128;;;E.M. Rivera;UTE;-30.8965;-55.5424;Convencional;P;Diaria
+1279;UTE-0129;;;Tres Puentes - Cerro Pelado;UTE;-31.4114;-55.2390;Convencional;P;Diaria
+1308;UTE-0130;;;La Calera;UTE;-31.3940;-55.3944;Convencional;P;Diaria
+1374;UTE-0131;;;Minas de Corrales;UTE;-31.5732;-55.4738;Convencional;P;Diaria
+1300;UTE-0132;;;Cerro Travieso;UTE;-31.4556;-56.2570;Convencional;P;Diaria
+1301;UTE-0133;;;Paso del Medio;UTE;-31.4568;-56.0722;Convencional;P;Diaria
+1370;UTE-0134;;;Paso de las Carretas;UTE;-31.5904;-56.0723;Convencional;P;Diaria
+1403;UTE-0135;;;Luján;UTE;-31.6543;-56.1520;Convencional;P;Diaria
+1405;UTE-0136;;;E.M. Tacuarembó;UTE;-31.7060;-55.9910;Convencional;P;Diaria
+1440;UTE-0137;;;Valle Edén;UTE;-31.8240;-56.1746;Convencional;P;Diaria
+1444;UTE-0138;;;Cuchilla del Ombú;UTE;-31.7607;-55.6978;Convencional;P;Diaria
+1566;UTE-0139;;;Cerro Cardozo;UTE;-32.0417;-55.5552;Convencional;P;Diaria
+1312;UTE-0140;;;La Puente;UTE;-31.4680;-54.9615;Convencional;P;Diaria
+1528;UTE-0142;;;Puntas Cinco Sauces;UTE;-31.9550;-55.0391;Convencional;P;Diaria
+1569;UTE-0143;;;Cinco Sauces;UTE;-32.0836;-55.1944;Convencional;P;Diaria
+1454;UTE-0146;;;Vichadero;UTE;-31.7789;-54.6915;Convencional;P;Diaria
+1495;UTE-0147;;;Paso de las Yeguas;UTE;-31.9133;-54.3092;Convencional;P;Diaria
+1537;UTE-0148;;;Noblia;UTE;-31.9559;-54.1237;Convencional;P;Diaria
+1580;UTE-0149;;;Mangrullo;UTE;-32.0986;-54.0483;Convencional;P;Diaria
+1621;UTE-0151;;;Buena Vista;UTE;-32.1287;-54.1592;Convencional;P;Diaria
+1626;UTE-0152;;;Centurión;UTE;-32.1456;-53.7880;Convencional;P;Diaria
+1665;UTE-0153;;;Tres Boliches;UTE;-32.2819;-54.1629;Convencional;P;Diaria
+1572;UTE-0154;;;Caraguatá Norte;UTE;-32.1215;-54.9005;Convencional;P;Diaria
+1709;UTE-0155;;;E.M. Melo;UTE;-32.3673;-54.1923;Convencional;P;Diaria
+1657;UTE-0156;;;Caraguatá Sur;UTE;-32.2452;-54.9926;Convencional;P;Diaria
+1793;UTE-0158;;;Fraile Muerto;UTE;-32.5121;-54.5236;Convencional;P;Diaria
+1838;UTE-0159;;;Cerro de la Cuentas;UTE;-32.6185;-54.5932;Convencional;P;Diaria
+1840;UTE-0160;;;Paso de los Carros;UTE;-32.5651;-54.3734;Convencional;P;Diaria
+1841;UTE-0161;;;Arbolito (Pereira);UTE;-32.6124;-54.2138;Convencional;P;Diaria
+1882;UTE-0162;;;Laguna del Junco;UTE;-32.7283;-54.9023;Convencional;P;Diaria
+1880;UTE-0163;;;Cuchilla del Carmen;UTE;-32.7199;-55.0325;Convencional;P;Diaria
+1973;UTE-0164;;;Capilla Farruco;UTE;-32.8388;-55.5186;Convencional;P;Diaria
+2073;UTE-0165;;;Cerro Chato;UTE;-33.0996;-55.1422;Convencional;P;Diaria
+1603;UTE-0166;;;Curtina;UTE;-32.1457;-56.1131;Convencional;P;Diaria
+1605;UTE-0167;;;Paso de los Cuadrados;UTE;-32.1678;-55.9471;Convencional;P;Diaria
+1692;UTE-0168;;;Paso Hondo;UTE;-32.2866;-55.8403;Convencional;P;Diaria
+1650;UTE-0169;;;Clara;UTE;-32.2234;-55.7313;Convencional;P;Diaria
+1734;UTE-0170;;;Achar;UTE;-32.4040;-56.1807;Convencional;P;Diaria
+1869;UTE-0172;;;Cardozo;UTE;-32.6579;-56.2877;Convencional;P;Diaria
+1875;UTE-0173;;;La Paloma;UTE;-32.7301;-55.5745;Convencional;P;Diaria
+1917;UTE-0174;;;Estancia Iberia;UTE;-32.8729;-56.2839;Convencional;P;Diaria
+1971;UTE-0175;;;Blanquillo;UTE;-32.8865;-55.6201;Convencional;P;Diaria
+2108;UTE-0177;;;Feliciano;UTE;-33.1864;-56.8087;Convencional;P;Diaria
+2233;;;;Concepcion del Uruguay;CARU;-32.477173;-58.221219;Telemetrica;H;Horaria
+2231;;;;Nuevo Berlín;CARU;-32.979836;-58.061997;Telemetrica;H;Horaria
+2235;;;;Fray Bentos;CARU;-33.112132;-58.314443;Telemetrica;H;Horaria
+1700;;;;Boca Gualeguaychu;CARU;-33.066667;-58.416667;Telemetrica;H;Horaria
+1699;;;;Nueva Palmira;CARU;-33.878478;-58.422029;Telemetrica;H;Horaria

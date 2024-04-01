@@ -1,0 +1,4 @@
+Current model version: 4.0.0.25
+
+New in HBV-light version 4.0.0.25:
+* The functionality of the SP parameter has changed. The default value for SP (corresponding to a constant degree day factor) has changed from 1 to 0. This is also the only value that can be directly converted. If a value other than 1 was used in a previous version there is no corresponding value for SP in version 4.0.0.25 with which simulation results can be reproduced.

@@ -1,0 +1,71 @@
+###########################################################################
+############   Calibración utilizando Borg & wflow  #######################
+###########################################################################
+Instrucciones
+
+Para la calibración se necesitan:
+1) Modelo wflow
+2) Archivo Calibracion.ini (puede tener otro nombre)
+3) wflow_hbv_optm.py en las siguientes lineas hay que modificar para que se ejecuten:
+
+"""def runCalibMode(params):
+    
+   	flCalib = path_completa_archivo_calibracion
+    	argv=['-C', folder_wflow_project, '-R', 'tst2']    ""
+
+##########################################################################
+		En terminal: source activate wflow2
+##########################################################################
+
+4) /home/gonzalo/05_Apps/wflow-master/wflow-py_v2/wflow/wflow_hbv_borg_serial.c
+   /home/aguas/Documentos/00_Trabajo/06_Proyectos/11_RioUru/Queguay/wflow/wflow-master/wflow-py_v2/wflow/wflow_hbv_borg_serial.c
+   Tiene que estar compilado y que el ejecutable generado tenga los permisos adecuados.
+
+5) se corre desde terminal el makefile
+$ make -f makefile_wflow
+5.1) Si realice cambios en wflow_hbv_optm.py necesito recompilar as follow:(wflow2) aguas@agua45:~/Documentos/00_Trabajo/06_Proyectos/11_RioUru/Queguay/wflow/wflow-master/wflow-py_v2$ python setup.py install
+
+*******version2020-> (wflow) verasun@debian:~/Documentos/00_Trabajo/06_Proyectos/11_RioUru/Queguay/wflow/wflow-master/wflow-py_v2$ sudo python setup.py install
+
+
+6)Corro borg+wflow
+(wflow) aguas@agua45:~/Documentos/00_Trabajo/06_Proyectos/11_RioUru/Queguay/wflow/wflow-master/wflow-py_v2/wflow$ ./wflow_hbv_borg_serial.exe nparam nobj nevals nseed
+														   ./wflow_hbv_borg_serial.exe 12 3 100 19940311
+
+###########################################################################
+############### Para generar el mapa de Field Capacity ####################
+###########################################################################
+Para generarme el FC.map (a partir del wflow_soil.map) que lo uso en la calibración...
+En la terminar va:
+source activate wflow2
+ipython
+import pcraster as pc
+soil=pc.readmap('/home/aguas/Documentos/00_Trabajo/06_Proyectos/11_RioUru/Queguay/wflow/11_wflow_Queguay/staticmaps/wflow_soil.map')
+pc.aguila(soil)
+#soil.dataType->Nominal
+fc=pc.scalar(soil)
+#fc.dataType()->Scalar
+pc.report(fc,'/home/aguas/Documentos/00_Trabajo/06_Proyectos/11_RioUru/Queguay/wflow/11_wflow_Queguay/staticmaps/FC.map')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

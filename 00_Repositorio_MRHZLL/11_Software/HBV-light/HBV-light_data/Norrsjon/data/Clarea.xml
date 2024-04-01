@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catchment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VegetationZoneCount>1</VegetationZoneCount>
+  <ElevationZoneHeight>
+    <double>375</double>
+    <double>425</double>
+    <double>490</double>
+  </ElevationZoneHeight>
+  <SubCatchment>
+    <VegetationZone>
+      <EVU xsi:type="Basic_EVU">
+        <Area>0.14</Area>
+      </EVU>
+      <EVU xsi:type="Basic_EVU">
+        <Area>0.56</Area>
+      </EVU>
+      <EVU xsi:type="Basic_EVU">
+        <Area>0.3</Area>
+      </EVU>
+    </VegetationZone>
+    <Lake>
+      <Area>0</Area>
+      <Elevation>0</Elevation>
+      <TT>0</TT>
+      <SFCF>0</SFCF>
+    </Lake>
+  </SubCatchment>
+</Catchment>

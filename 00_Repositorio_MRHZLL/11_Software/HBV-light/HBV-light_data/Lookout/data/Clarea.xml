@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catchment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VegetationZoneCount>1</VegetationZoneCount>
+  <ElevationZoneHeight>
+    <double>550</double>
+    <double>650</double>
+    <double>750</double>
+    <double>850</double>
+    <double>950</double>
+    <double>1050</double>
+    <double>1150</double>
+    <double>1250</double>
+    <double>1350</double>
+    <double>1450</double>
+    <double>1550</double>
+    <double>1650</double>
+  </ElevationZoneHeight>
+  <SubCatchment>
+    <VegetationZone>
+      <EVU xsi:type="Basic_EVU">
+        <Area>0.02</Area>
+      </EVU>
+      <EVU xsi:type="Basic_EVU">
+        <Area>0.04</Area>
+      </EVU>
+      <EVU xsi:type="Basic_EVU">
+        <Area>0.11</Area>
+      </EVU>
+      <EVU xsi:type="Basic_EVU">
+        <Area>0.11</Area>
+      </EVU>
+      <EVU xsi:type="Basic_EVU">
+        <Area>0.13</Area>
+      </EVU>
+      <EVU xsi:type="Basic_EVU">
+        <Area>0.11</Area>
+      </EVU>
+      <EVU xsi:type="Basic_EVU">
+        <Area>0.12</Area>
+      </EVU>
+      <EVU xsi:type="Basic_EVU">
+        <Area>0.1</Area>
+      </EVU>
+      <EVU xsi:type="Basic_EVU">
+        <Area>0.12</Area>
+      </EVU>
+      <EVU xsi:type="Basic_EVU">
+        <Area>0.08</Area>
+      </EVU>
+      <EVU xsi:type="Basic_EVU">
+        <Area>0.05</Area>
+      </EVU>
+      <EVU xsi:type="Basic_EVU">
+        <Area>0.01</Area>
+      </EVU>
+    </VegetationZone>
+    <Lake>
+      <Area>0</Area>
+      <Elevation>0</Elevation>
+      <TT>0</TT>
+      <SFCF>0</SFCF>
+    </Lake>
+  </SubCatchment>
+</Catchment>
